@@ -1,0 +1,15 @@
+2023-12-27 20:01:35: CRITICAL: - Your message goes here
+2023-12-27 20:01:35: ERROR: - Your message goes here
+2023-12-27 20:01:35: WARNING: - Your message goes here
+2023-12-27 20:01:35: INFO: - Your message goes here
+2023-12-27 20:01:35: DEBUG: - Your message goes here
+MONTY 2023-12-27 20:01:43 CRITICAL - [logger.py > <module>() > 23] - Your message goes here
+MONTY 2023-12-27 20:01:43 ERROR - [logger.py > <module>() > 24] - Your message goes here
+MONTY 2023-12-27 20:01:43 WARNING - [logger.py > <module>() > 25] - Your message goes here
+MONTY 2023-12-27 20:01:43 INFO - [logger.py > <module>() > 26] - Your message goes here
+MONTY 2023-12-27 20:01:43 DEBUG - [logger.py > <module>() > 27] - Your message goes here
+MONTY 2023-12-27 20:01:59 CRITICAL - [logger.py > <module>() > 23] - Your message goes here
+MONTY 2023-12-27 20:01:59 ERROR - [logger.py > <module>() > 24] - Your message goes here
+MONTY 2023-12-27 20:01:59 WARNING - [logger.py > <module>() > 25] - Your message goes here
+MONTY 2023-12-27 20:01:59 INFO - [logger.py > <module>() > 26] - Your message goes here
+MONTY 2023-12-27 20:01:59 DEBUG - [logger.py > <module>() > 27] - Your message goes here
